@@ -1,4 +1,4 @@
-Rainbow colours
+Rainbow colours and Unicorn
 
 Red
 Blue
@@ -6,3 +6,4 @@ Green
 Yellow
 Purple
 Indigo 
+Unicorn
